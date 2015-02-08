@@ -13,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
         int length = 20;
-        int[] arrFirst = new int[length];
+        int[] arrFirst = new int[length]; //asdasdasdasdasdasdas
         int i = 0;
         while (i < length - 1) {
             i++;
